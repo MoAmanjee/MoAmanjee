@@ -31,7 +31,7 @@ From **mobile apps** to **low-level programming** and **OOP systems**, I enjoy b
 ### 📍 Mosque Locator App (Flutter)
 - Shows nearest mosques based on user location  
 - Includes Qiblah compass, Quran API integration & prayer times  
-- **[View Repository](https://github.com/yourusername/mosque-locator-app)**  
+- **[View Repository](https://github.com/MoAmanjee/Mosque-Locator-App-.git)**  
 
 ---
 ### 🏔️ BASE SAS
