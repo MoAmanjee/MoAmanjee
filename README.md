@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammed Amanjeee  
+# 👋 Hi, I'm Mohammed Amanjee  
 
 🎓 **BSc (Hons) in Computer Science**  
 🥋 **Black Belt in Judo** | Represented **South Africa** | 2nd at **Commonwealth Games**  
@@ -60,13 +60,6 @@ From **mobile apps** to **low-level programming** and **OOP systems**, I enjoy b
   - **Automation Tools** — CLI utilities for repetitive task automation  
   - **Small Games** — Pygame-based interactive projects  
 - **[View Repository](https://github.com/MoAmanjee/Python)**  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
 ---
 
