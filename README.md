@@ -59,7 +59,7 @@ From **mobile apps** to **low-level programming** and **OOP systems**, I enjoy b
   - **Data Analysis Scripts** — Pandas/Numpy-based data wrangling and reporting  
   - **Automation Tools** — CLI utilities for repetitive task automation  
   - **Small Games** — Pygame-based interactive projects  
-- **[View Repository](https://github.com/yourusername/python-projects)**  
+- **[View Repository](https://github.com/MoAmanjee/Python)**  
 
 ---
 
