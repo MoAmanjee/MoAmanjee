@@ -34,6 +34,15 @@ From **mobile apps** to **low-level programming** and **OOP systems**, I enjoy b
 - **[View Repository](https://github.com/yourusername/mosque-locator-app)**  
 
 ---
+### 🏔️ BASE SAS
+- Writing SAS programs to process and display employee and sales data with sorting, grouping, and formatting.  
+- Creating user-defined formats and labels to improve report clarity.
+- Applying BASE SAS programming concepts to generate accurate reports and datasets as per specified requirements.
+- Reading and writing data to Excel files and handling in-stream data input.
+-Performing data subsetting and conditional data processing.
+- **[View Repository](https://github.com/MoAmanjee/BASE-SAS-.git)**  
+
+---
 
 ### 💻 C++ Campus Projects
 - Various algorithm and systems-focused projects completed at university  
@@ -62,6 +71,16 @@ From **mobile apps** to **low-level programming** and **OOP systems**, I enjoy b
 - **[View Repository](https://github.com/MoAmanjee/Python)**  
 
 ---
+### 🏭 Data Warehouse ETL Project
+- ETL Solution for MakerInc using Microsoft SSIS and SQL Server 
+- Data Warehouse Design with Dimension, Fact, and Master tables
+- SQL Stored Procedures provided for data transformations
+- Visual Data Models included
+- Connection Setup Diagrams
+- Built in Visual Studio
+- **[View Repository](https://github.com/MoAmanjee/Data-Warehouse-ETL-Project.git)**
+
+  
 
 ## 📫 How to Reach Me
 - **Email:** [Mohammedamanjee@gmail.com] 
