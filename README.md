@@ -49,7 +49,7 @@ From **mobile apps** to **low-level programming** and **OOP systems**, I enjoy b
 - OOP-based multi-level console game  
 - Includes puzzle-solving & interactive rooms  
 - Developed for university coursework with emphasis on clean architecture  
-- **[View Repository](https://github.com/yourusername/csharp-text-game)**  
+- **[View Repository](https://github.com/MoAmanjee/CSharp.git)**  
 
 ---
 
