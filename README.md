@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammed Amanjee  
+# Hi, I'm Mohammed Amanjee  
 
 🎓 **BSc (Hons) in Computer Science**  
 🥋 **Black Belt in Judo** | Represented **South Africa** | 2nd at **Commonwealth Games**  
